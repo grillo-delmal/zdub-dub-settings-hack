@@ -1,5 +1,5 @@
 Name:           zdub-dub-settings-hack
-Version:        0.1.0
+Version:        0.2.0
 Release:        %autorelease
 Summary:        A shitty hack to make dub packages ... packageable
 

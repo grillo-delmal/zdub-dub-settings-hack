@@ -1,3 +1,3 @@
 {
-    "customCachePaths": ["/usr/include/zdub/"]
+    "customCachePaths": ["/usr/share/dub/"]
 }
